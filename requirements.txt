@@ -1,0 +1,4 @@
+scapy>=2.5.0
+pywin32>=306; sys_platform == 'win32'
+WMI>=1.5.1; sys_platform == 'win32'
+Flask>=3.0.0
